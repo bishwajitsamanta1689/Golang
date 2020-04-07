@@ -42,5 +42,5 @@ func main() {
 	}
 	whatamI(true)
 	whatamI(1)
-	whatamI("hey")
+	whatamI("hey buddy")
 }
